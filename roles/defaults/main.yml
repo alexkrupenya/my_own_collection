@@ -1,0 +1,4 @@
+---
+# default values for my_own_module_role
+  dpath: "/tmp/default.txt"
+  dcontent: "default file content"

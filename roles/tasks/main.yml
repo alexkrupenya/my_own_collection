@@ -1,0 +1,5 @@
+---
+- name  : run create file module
+  my_own_module:
+    path: "{{ dpath }}"
+    content: "{{ dcontent }}"
